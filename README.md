@@ -41,6 +41,3 @@ Premium features include:
 * Помощь от ИИ.
 * Кастомизация браузера.
 * Возможность загрузить свои обои
-
-<img width="1915" height="1150" alt="image" src="https://github.com/user-attachments/assets/92f99b16-e0a8-4fed-8802-d128b00468a7" />
-
