@@ -1,4 +1,4 @@
-# [EN]
+<img width="1915" height="1150" alt="image" src="https://github.com/user-attachments/assets/1a6ad38d-b223-4a59-93cf-336e1a8d97f8" /># [EN]
 
 **ComfortTab - a browser you should definitely try! It's convenient in every way and includes everything you need:**
 * Minimalist design.
@@ -41,3 +41,6 @@ Premium features include:
 * Помощь от ИИ.
 * Кастомизация браузера.
 * Возможность загрузить свои обои
+
+<img width="1915" height="1150" alt="image" src="https://github.com/user-attachments/assets/92f99b16-e0a8-4fed-8802-d128b00468a7" />
+
