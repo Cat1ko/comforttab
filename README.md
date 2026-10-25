@@ -1,6 +1,6 @@
 # [EN]
 
-**ComfortTab — a browser you should definitely try! It's convenient in every way and includes everything you need:**
+**ComfortTab - a browser you should definitely try! It's convenient in every way and includes everything you need:**
 * Minimalist design.
 * User-friendly search.
 * Convenient home screen.
