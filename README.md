@@ -1,4 +1,5 @@
 <img width="1919" height="1151" alt="image" src="https://github.com/user-attachments/assets/7db5c63b-a543-4842-a549-8cbddc11a123" />
+
 # [EN]
 
 **ComfortTab - a browser you should definitely try! It's convenient in every way and includes everything you need:**
